@@ -1,10 +1,11 @@
-<!-- Professional Header -->
+<!-- Prof<h3>🚀 AI Student | Full-- 📍 **Location**: Vietnamtack Developer | From Vietnam</h3>ssional Header -->
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=header&text=Y%20Phai%20Niê&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35" width="100%" />
+<img src="https://<strong>📍 Location</strong><br/>
+<code>Vietnam</code>psule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=header&text=Y%20Phai%20Niê&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35" width="100%" />
 </div>
 
 <div align="center">
-<img src="https://github.com/youngestwall.png" alt="Y Phai Niê" width="150" style="border-radius: 50%; border: 4px solid #00D9FF; box-shadow: 0 0 20px rgba(0, 217, 255, 0.3);" />
+<img<td align="center"><cod### *<img s<!-- Profile crafted with 💙 by Y Phai Niê from Vietnam -->c="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=18&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Thanks+for+checking+out+my+profile!;Let's+build+something+amazing+together!;Always+excited+to+connect+with+developers!;Greetings+from+Vietnam!" />✨ Thank you for visiting my profile!**>GMT+7 (Vietnam)</code></td>src="https://github.com/youngestwall.png" alt="Y Phai Niê" width="150" style="border-radius: 50%; border: 4px solid #00D9FF; box-shadow: 0 0 20px rgba(0, 217, 255, 0.3);" />
 
 <h1>👋 Hi, I'm Y Phai Niê</h1>
 <h3>🚀 AI Student | Full-Stack Developer | From Vietnam �</h3>
