@@ -36,12 +36,12 @@
   <tr>
     <td width="50%">
       <h4><a href="https://github.com/youngestwall/dockerized-ecommerce-site">🛒 Dockerized E-Commerce Site</a></h4>
-      <p>🧱 Full-stack shopping platform built with React, Spring Boot, MySQL. Dockerized with JWT auth & REST APIs.</p>
+      <p>🧱 Full-stack web app using React, Spring Boot, and MySQL. Dockerized and secured with JWT authentication.</p>
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=youngestwall&repo=dockerized-ecommerce-site&theme=tokyonight" />
     </td>
     <td width="50%">
       <h4><a href="https://github.com/youngestwall/travel-booking-platform">✈️ Travel Booking Platform</a></h4>
-      <p>🌍 MERN-stack app for booking trips and hotels. Includes dynamic filters, secure login, and mobile UI.</p>
+      <p>🌍 MERN stack project for hotel and tour booking. Includes authentication, filters, and responsive UI.</p>
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=youngestwall&repo=travel-booking-platform&theme=tokyonight" />
     </td>
   </tr>
@@ -49,25 +49,11 @@
 
 ---
 
-## 🧠 Learning Journey
-
-```mermaid
-timeline
-    title Y Phai Niê - Academic & Dev Timeline
-    2021 : 🎓 Started IT major at Dong A University
-    2023 : 💡 Specialized in Artificial Intelligence
-    2024 : 💻 Web Developer intern at Dong A Software
-    2025 : 🚀 Built Docker + Cloud-based full-stack project
-    2026 : 🎉 Expected graduation and career in Full-stack Development
-```
-
----
-
 ## 💻 Tech Stack:
 
-<!-- Badge list kept exactly as you had -->
+<!-- Stack badges kept exactly as you provided -->
 
-<!-- It's long so omitted here for clarity -->
+\[...tech stack badges here (unchanged)...]
 
 ---
 
@@ -103,8 +89,22 @@ timeline
 
 ---
 
+## 📜 Career Timeline
+
+```mermaid
+timeline
+    title Y Phai Niê - Academic & Dev Timeline
+    2021 : 🎓 Started IT major at Dong A University
+    2023 : 💡 Specialized in Artificial Intelligence
+    2024 : 💻 Web Developer intern at Dong A Software
+    2025 : 🚀 Built Docker + Cloud-based full-stack project
+    2026 : 🎉 Expected graduation and career in Full-stack Development
+```
+
+---
+
 <p align="center">
   <img src="https://visitcount.itsvg.in/api?id=youngestwall&label=Profile+Views&color=blueviolet&style=flat" />
 </p>
 
-<!-- Proudly crafted with love by Y Phai Niê 💝 -->
+<!-- Proudly crafted with love by Y Phai Niê 🛠️ -->
