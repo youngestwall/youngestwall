@@ -157,7 +157,7 @@
 </td>
 <td align="center">
 <strong>💼 Status</strong><br/>
-<code>Available for opportunities</code>
+<code>Single</code>
 </td>
 </tr>
 </table>
