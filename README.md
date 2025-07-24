@@ -6,7 +6,7 @@
 <div align="center">
 <img src="https://github.com/youngestwall.png" alt="Y Phai Niê" width="150" style="border-radius: 50%; border: 4px solid #00D9FF; box-shadow: 0 0 20px rgba(0, 217, 255, 0.3);" />
 
-<h1>👋 Hi, I'm Y Phai Niê 🇻🇳 </h1>
+<h1>👋 Hi, I'm Y Phai Niê</h1>
 <h3>🚀 AI Student | Full-Stack Developer | From Vietnam</h3>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Full-Stack+Developer+in+Progress;Passionate+about+AI+%26+Web+Development;Always+Learning+New+Technologies" />
