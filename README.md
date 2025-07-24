@@ -3,12 +3,58 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Banner" />
 </p>
 
+<div align="center">
+  <img src="https://avatars.githubusercontent.com/u/youngestwall?v=4" alt="Y Phai Niê" width="120" style="border-radius: 50%; border: 3px solid #00F58C;" />
+</div>
+
 <h1 align="center">Hi, I'm Y Phai Niê 👋</h1>
 <h3 align="center">🚀 Final-year AI Student | Aspiring Full-stack Developer | Based in Vietnam 🇻🇳</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=00F58C&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;Full-stack+developer+in+progress...;I+love+React%2C+Spring+Boot%2C+Docker%2C+AI+and+more!" />
 </p>
+
+---
+
+## 🎓 Education & Career Timeline
+
+<div align="center">
+
+```mermaid
+timeline
+    title My Journey 🚀
+    
+    2020 : Started University
+         : 📚 Computer Science Major
+         : 🎯 Focus on Programming Fundamentals
+    
+    2021 : Web Development Journey
+         : 🌐 Learned HTML, CSS, JavaScript
+         : ⚛️ Started with React
+         : 🎨 UI/UX Design Interest
+    
+    2022 : Backend & Database
+         : ☕ Java & Spring Boot
+         : 🗄️ MySQL & MongoDB
+         : 🐳 Docker & DevOps
+    
+    2023 : AI & Machine Learning
+         : 🤖 Python for AI/ML
+         : 📊 Data Science Projects
+         : 🧠 Deep Learning Exploration
+    
+    2024 : Full-Stack Projects
+         : 🚀 Complete Web Applications
+         : 📱 Mobile Development (Flutter)
+         : 🔧 System Design & Architecture
+    
+    2025 : Final Year & Beyond
+         : 🎓 Graduation Preparation
+         : 💼 Job Search & Internships
+         : 🌟 Open Source Contributions
+```
+
+</div>
 
 ---
 
@@ -25,18 +71,181 @@
 
 ---
 
-## 📌 Pinned Projects
+## 🌟 Portfolio Website
+
+<div align="center">
+  <a href="https://youngestwall.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_My_Portfolio-Visit_Website-00F58C?style=for-the-badge&logo=github-pages&logoColor=white" alt="Portfolio Website" />
+  </a>
+</div>
 
 <p align="center">
-  <a href="https://github.com/youngestwall/your-awesome-project1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=youngestwall&repo=your-awesome-project1&theme=tokyonight" />
+  <img src="https://img.shields.io/badge/Built_with-React_+_Tailwind_CSS-blue?style=flat&logo=react" />
+  <img src="https://img.shields.io/badge/Hosted_on-GitHub_Pages-181717?style=flat&logo=github" />
+  <img src="https://img.shields.io/badge/Status-Live-brightgreen?style=flat" />
+</p>
+
+### 🎨 What you'll find in my portfolio:
+- 💼 **Professional Projects** - Showcase of my best work
+- 🛠️ **Technical Skills** - Detailed breakdown of technologies I use
+- 📝 **Blog Posts** - My thoughts on tech and development
+- 📞 **Contact Form** - Get in touch directly
+- 📄 **Resume Download** - Latest CV in PDF format
+
+<div align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" alt="Portfolio Demo" />
+</div>
+
+---
+
+## 📌 Featured Projects
+
+### 🏆 Project Showcase
+
+<div align="center">
+
+| Project | Description | Tech Stack | Features |
+|---------|-------------|------------|----------|
+| 👗 **Fashion Shop** | Modern e-commerce platform for fashion retail | React, Node.js, MongoDB, Express | 🛒 Shopping Cart, � Product Catalog, � Search & Filter |
+| 🍔 **Food Delivery App** | Mobile application for food ordering and delivery | React Native, Firebase, Node.js | � Cross-platform, � Real-time Tracking, 💳 Payment Gateway |
+| 🎯 **Web Portfolio** | Personal portfolio website showcasing projects | HTML, CSS, JavaScript, Bootstrap | 📱 Responsive Design, ⚡ Fast Loading, 🎨 Modern UI |
+| 🤖 **AI Projects** | Collection of AI/ML experiments and demos | Python, TensorFlow, Jupyter | 🧠 Machine Learning, � Data Analysis, � Research Projects |
+
+</div>
+
+### 🚀 Live Project Demos
+
+<p align="center">
+  <a href="https://github.com/youngestwall/shop_fashion">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=youngestwall&repo=shop_fashion&theme=tokyonight&hide_border=false" />
   </a>
-  <a href="https://github.com/youngestwall/your-awesome-project2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=youngestwall&repo=your-awesome-project2&theme=tokyonight" />
+  <a href="https://github.com/youngestwall/mobile_app_food_delivery">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=youngestwall&repo=mobile_app_food_delivery&theme=tokyonight&hide_border=false" />
   </a>
 </p>
 
-<!-- Thay "your-awesome-project1/2" bằng tên thật repo -->
+### 💡 Project Highlights
+
+<details>
+<summary><b>👗 Fashion Shop E-Commerce</b> - Click to expand</summary>
+
+**🎯 Overview:**
+A modern, responsive e-commerce platform specifically designed for fashion retail, featuring a clean UI and seamless shopping experience.
+
+**✨ Key Features:**
+- 🛒 **Smart Shopping Cart** - Add to cart, quantity management, wishlist
+- � **Product Catalog** - Browse by categories, brands, sizes, colors
+- � **Advanced Search & Filter** - Find products by price, rating, popularity
+- 📱 **Mobile Responsive** - Optimized for all devices and screen sizes
+- � **User Authentication** - Secure login/register system
+- ⭐ **Reviews & Ratings** - Customer feedback and product ratings
+
+**🛠️ Technologies Used:**
+- **Frontend:** React.js, CSS3, JavaScript ES6+
+- **Backend:** Node.js, Express.js
+- **Database:** MongoDB, Mongoose
+- **Authentication:** JWT, bcryptjs
+- **Styling:** CSS Modules, Responsive Design
+
+**🔗 Links:**
+- [📖 GitHub Repository](https://github.com/youngestwall/shop_fashion)
+- [🌐 Live Demo](https://youngestwall.github.io/shop_fashion) *(if deployed)*
+- [� Screenshots](https://github.com/youngestwall/shop_fashion#screenshots)
+
+**📊 Project Stats:**
+- ⭐ Stars: ![GitHub stars](https://img.shields.io/github/stars/youngestwall/shop_fashion?style=social)
+- � Forks: ![GitHub forks](https://img.shields.io/github/forks/youngestwall/shop_fashion?style=social)
+- 📝 Commits: ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/youngestwall/shop_fashion)
+
+</details>
+
+<details>
+<summary><b>🍔 Food Delivery Mobile App</b> - Click to expand</summary>
+
+**🎯 Overview:**
+A comprehensive mobile application for food ordering and delivery, providing users with a seamless experience from browsing restaurants to tracking orders.
+
+**✨ Key Features:**
+- 📱 **Cross-platform Mobile App** - Works on both iOS and Android
+- 🍕 **Restaurant Discovery** - Browse local restaurants and cuisines
+- � **Real-time Order Tracking** - Live updates on delivery status
+- 💳 **Multiple Payment Options** - Credit cards, digital wallets, cash
+- ⭐ **Restaurant Reviews** - User ratings and feedback system
+- 🔔 **Push Notifications** - Order updates and promotional offers
+
+**🛠️ Technologies Used:**
+- **Mobile:** React Native, Expo
+- **Backend:** Node.js, Express.js, Socket.io
+- **Database:** Firebase Firestore, Real-time Database
+- **Authentication:** Firebase Auth
+- **Maps:** Google Maps API, Geolocation
+- **Payments:** Stripe API integration
+
+**🔗 Links:**
+- [📖 GitHub Repository](https://github.com/youngestwall/mobile_app_food_delivery)
+- [📱 APK Download](https://github.com/youngestwall/mobile_app_food_delivery/releases) *(if available)*
+- [🎥 Demo Video](https://github.com/youngestwall/mobile_app_food_delivery#demo) *(if available)*
+
+**📊 Project Stats:**
+- ⭐ Stars: ![GitHub stars](https://img.shields.io/github/stars/youngestwall/mobile_app_food_delivery?style=social)
+- 🍴 Forks: ![GitHub forks](https://img.shields.io/github/forks/youngestwall/mobile_app_food_delivery?style=social)
+- � Language: ![GitHub top language](https://img.shields.io/github/languages/top/youngestwall/mobile_app_food_delivery)
+
+</details>
+
+<details>
+<summary><b>🌐 Portfolio Website</b> - Click to expand</summary>
+
+**🎯 Overview:**
+My personal portfolio website showcasing my projects, skills, and professional journey as a developer.
+
+**✨ Key Features:**
+- 🎨 **Modern Design** - Clean, professional, and visually appealing
+- � **Fully Responsive** - Works perfectly on all devices
+- ⚡ **Fast Loading** - Optimized performance and SEO
+- � **Dark/Light Mode** - Theme switching capability
+- � **Contact Form** - Direct communication channel
+- � **Resume Download** - Latest CV in PDF format
+
+**🛠️ Technologies Used:**
+- **Frontend:** HTML5, CSS3, JavaScript
+- **Framework:** Bootstrap, jQuery
+- **Hosting:** GitHub Pages
+- **Tools:** Git, VS Code
+
+**🔗 Links:**
+- [🌐 Live Website](https://youngestwall.github.io)
+- [📖 Source Code](https://github.com/youngestwall/youngestwall.github.io)
+
+</details>
+
+<details>
+<summary><b>🤖 AI & Machine Learning Projects</b> - Click to expand</summary>
+
+**🎯 Overview:**
+A collection of AI and Machine Learning projects showcasing my exploration in artificial intelligence, data science, and deep learning.
+
+**✨ Project Categories:**
+- 🧠 **Machine Learning Models** - Classification, regression, clustering
+- � **Data Analysis** - Statistical analysis and visualization
+- � **Research Projects** - Academic and experimental work
+- 🤖 **AI Applications** - Practical AI implementations
+- � **Predictive Analytics** - Forecasting and trend analysis
+
+**🛠️ Technologies Used:**
+- **Languages:** Python, R, SQL
+- **Libraries:** TensorFlow, PyTorch, Scikit-learn, Pandas, NumPy
+- **Tools:** Jupyter Notebook, Google Colab, Anaconda
+- **Visualization:** Matplotlib, Seaborn, Plotly
+
+**🔗 Links:**
+- [📚 AI Projects Collection](https://github.com/youngestwall?tab=repositories&q=AI)
+- [� Kaggle Profile](https://kaggle.com/youngestwall) *(if available)*
+- [� Research Papers](https://github.com/youngestwall/research-papers) *(if available)*
+
+</details>
+
+<!-- Cập nhật với repository thực tế của Y Phai Niê -->
 
 ---
 
@@ -101,6 +310,40 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=youngestwall&theme=radical&no-frame=false&no-bg=true&margin-w=8" />
 </p>
+
+---
+
+## 🎮 Fun Zone
+
+<div align="center">
+  
+### 🐍 Play Snake Game (Click the snake!)
+[![Snake animation](https://github.com/youngestwall/youngestwall/blob/output/github-contribution-grid-snake.svg)](https://github.com/youngestwall/youngestwall/blob/output/github-contribution-grid-snake.svg)
+
+### 🎯 Current Goals & Achievements
+  
+```text
+🚀 2025 Goals Progress:
+
+▓▓▓▓▓▓▓▓▓▓ 100%  Master React & Advanced JavaScript
+▓▓▓▓▓▓▓▓░░  80%   Spring Boot & Microservices
+▓▓▓▓▓▓░░░░  60%   AI/ML with Python & TensorFlow
+▓▓▓▓▓░░░░░  50%   DevOps & Cloud Technologies
+▓▓▓░░░░░░░  30%   System Design & Architecture
+▓▓░░░░░░░░  20%   Open Source Contributions
+
+🏆 Recent Achievements:
+✅ Completed 50+ coding challenges
+✅ Built 4 full-stack applications
+✅ Contributed to 3 open source projects
+✅ Learned Docker & Kubernetes
+✅ Deployed apps on AWS & GCP
+```
+
+### 🎨 GitHub Activity Art
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=youngestwall&theme=tokyo-night&hide_border=true&area=true" />
+
+</div>
 
 ---
 
