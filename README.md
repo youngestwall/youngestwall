@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/youngestwall?v=4" alt="Y Phai Niê" width="150" style="border-radius: 50%; border: 4px solid #00D9FF; box-shadow: 0 0 20px rgba(0, 217, 255, 0.3);" />
+  <img src="https://github.com/youngestwall.png" alt="Y Phai Niê" width="150" style="border-radius: 50%; border: 4px solid #00D9FF; box-shadow: 0 0 20px rgba(0, 217, 255, 0.3);" />
   
   <h1>👋 Hi, I'm Y Phai Niê</h1>
   <h3>🚀 AI Student | Full-Stack Developer | Vietnam 🇻🇳</h3>
