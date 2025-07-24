@@ -1,6 +1,12 @@
 <!-- Professional Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=header&text=Y%20Phai%20Niê&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=header&text=Y%- ✅ Secure payment processing
+
+</details>
+
+---
+
+## 💻 **Additional Tech Stack**iê&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35" width="100%" />
 </div>
 
 <div align="center">
