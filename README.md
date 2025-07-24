@@ -127,11 +127,23 @@
 
 <div align="center">
   <a href="https://github.com/youngestwall/shop_fashion">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=youngestwall&repo=shop_fashion&theme=tokyonight&hide_border=false" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=youngestwall&repo=shop_fashion&theme=tokyonight&hide_border=false" alt="Fashion Shop Repository" />
   </a>
   <a href="https://github.com/youngestwall/mobile_app_food_delivery">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=youngestwall&repo=mobile_app_food_delivery&theme=tokyonight&hide_border=false" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=youngestwall&repo=mobile_app_food_delivery&theme=tokyonight&hide_border=false" alt="Food Delivery App Repository" />
   </a>
+</div>
+
+**📌 Note:** *If repository cards don't load, you can visit the links directly above*
+
+### 🔗 **Direct Repository Links**
+
+<div align="center">
+
+[![Fashion Shop](https://img.shields.io/badge/👗_Fashion_Shop-Visit_Repository-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/youngestwall/shop_fashion)
+[![Food Delivery](https://img.shields.io/badge/🍔_Food_Delivery-Visit_Repository-4ECDC4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/youngestwall/mobile_app_food_delivery)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Website-00D9FF?style=for-the-badge&logo=github-pages&logoColor=white)](https://youngestwall.github.io)
+
 </div>
 
 ### 💡 **Project Details**
