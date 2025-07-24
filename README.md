@@ -7,14 +7,14 @@
 <img src="https://github.com/youngestwall.png" alt="Y Phai Niê" width="150" style="border-radius: 50%; border: 4px solid #00D9FF; box-shadow: 0 0 20px rgba(0, 217, 255, 0.3);" />
 
 <h1>👋 Hi, I'm Y Phai Niê</h1>
-<h3>🚀 AI Student | Full-Stack Developer | Vietnam 🇻🇳</h3>
+<h3>🚀 AI Student | Full-Stack Developer | From Vietnam �</h3>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Full-Stack+Developer+in+Progress;Passionate+about+AI+%26+Web+Development;Always+Learning+New+Technologies" />
 
 <p>
 <img src="https://img.shields.io/badge/🎓_Student-Computer_Science-4CAF50?style=for-the-badge&logoColor=white&labelColor=1a1a1a"/>
 <img src="https://img.shields.io/badge/💼_Role-Full_Stack_Developer-2196F3?style=for-the-badge&logoColor=white&labelColor=1a1a1a"/>
-<img src="https://img.shields.io/badge/📍_Location-Vietnam_🇻🇳-FF5722?style=for-the-badge&logoColor=white&labelColor=1a1a1a"/>
+<img src="https://img.shields.io/badge/📍_Based_in-Vietnam-red?style=for-the-badge&logoColor=white&labelColor=1a1a1a"/>
 </p>
 </div>
 
@@ -32,7 +32,7 @@
 - 🤖 **AI & Machine Learning Enthusiast**
 - 🌱 **Currently learning**: Advanced React, Spring Boot, AI/ML
 - 🎯 **Goal**: Become a professional software engineer
-- 📍 **Location**: Vietnam 🇻🇳
+- 📍 **Location**: Vietnam �
 
 </td>
 <td width="50%">
@@ -153,7 +153,7 @@
 </td>
 <td align="center">
 <strong>📍 Location</strong><br/>
-<code>Vietnam 🇻🇳</code>
+<code>Vietnam �</code>
 </td>
 <td align="center">
 <strong>💼 Status</strong><br/>
@@ -448,7 +448,7 @@ Open to work on interesting projects with other developers
 <td align="center"><strong>💼 Availability</strong></td>
 </tr>
 <tr>
-<td align="center"><code>GMT+7 (Vietnam 🇻🇳)</code></td>
+<td align="center"><code>GMT+7 (Vietnam) �</code></td>
 <td align="center"><code>2025</code></td>
 <td align="center"><code>Open for Opportunities</code></td>
 </tr>
@@ -471,15 +471,15 @@ Open to work on interesting projects with other developers
 <img src="https://img.shields.io/github/followers/youngestwall?label=Followers&style=for-the-badge&color=00D9FF&logoColor=white" />
 </div>
 
-### **✨ Thank you for visiting my profile! 🇻🇳**
+### **✨ Thank you for visiting my profile! �**
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&text=Thank%20You!&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=65" width="100%" />
 
 <p>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=18&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Thanks+for+checking+out+my+profile!;Let's+build+something+amazing+together!;Always+excited+to+connect+with+developers!;Greetings+from+Vietnam+🇻🇳!" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=18&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Thanks+for+checking+out+my+profile!;Let's+build+something+amazing+together!;Always+excited+to+connect+with+developers!;Greetings+from+Vietnam+�!" />
 </p>
 </div>
 
 </div>
 
-<!-- Profile crafted with 💙 by Y Phai Niê from Vietnam 🇻🇳 -->
+<!-- Profile crafted with 💙 by Y Phai Niê from Vietnam � -->
